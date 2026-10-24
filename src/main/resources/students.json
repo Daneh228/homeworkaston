@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Oleg", "surname": "Ivanov", "age": 19,
+    "books": [
+      {"title": "Clean Code", "author": "Robert Martin", "pages": 464, "release": 2008},
+      {"title": "Effective Java", "author": "Joshua Bloch", "pages": 416, "release": 2018},
+      {"title": "Design Patterns", "author": "Erich Gamma", "pages": 395, "release": 1994},
+      {"title": "Refactoring", "author": "Martin Fowler", "pages": 448, "release": 1999},
+      {"title": "Java Concurrency in Practice", "author": "Brian Goetz", "pages": 432, "release": 2006}
+    ]
+  },
+  {
+    "name": "Petr", "surname": "Petrov", "age": 21,
+    "books": [
+      {"title": "Clean Code", "author": "Robert Martin", "pages": 464, "release": 2008},
+      {"title": "Head First Java", "author": "Kathy Sierra", "pages": 720, "release": 2005},
+      {"title": "The Pragmatic Programmer", "author": "Andrew Hunt", "pages": 352, "release": 1999},
+      {"title": "Thinking in Java", "author": "Bruce Eckel", "pages": 1150, "release": 1998},
+      {"title": "Java Puzzlers", "author": "Joshua Bloch", "pages": 312, "release": 2005}
+    ]
+  }
+]
